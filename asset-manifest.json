@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/petPlayer/static/css/main.019b4985.css",
+    "main.js": "/petPlayer/static/js/main.9902414c.js",
+    "index.html": "/petPlayer/index.html",
+    "main.019b4985.css.map": "/petPlayer/static/css/main.019b4985.css.map",
+    "main.9902414c.js.map": "/petPlayer/static/js/main.9902414c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.019b4985.css",
+    "static/js/main.9902414c.js"
+  ]
+}
