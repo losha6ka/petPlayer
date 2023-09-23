@@ -1,0 +1,2 @@
+.App{align-items:center;display:flex;height:100vh;margin:0 auto;max-width:1001px;width:100vw}.buttons-box{grid-gap:10px;display:grid;flex-direction:column;gap:10px}.buttons-box__container{display:flex;gap:10px;justify-content:center;transition:.3s}.button-style{background-color:#f5f5f5;text-align:center;transition:.3s}.button-style:hover{background-color:#7cfc00;transition:.3s}.button-style-active{background-color:green;transition:.3s}
+/*# sourceMappingURL=main.3884fa22.css.map*/

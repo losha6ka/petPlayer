@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/petPlayer/static/css/main.51e8c3ec.css",
+    "main.css": "/petPlayer/static/css/main.3884fa22.css",
     "main.js": "/petPlayer/static/js/main.d64580ae.js",
     "index.html": "/petPlayer/index.html",
-    "main.51e8c3ec.css.map": "/petPlayer/static/css/main.51e8c3ec.css.map",
+    "main.3884fa22.css.map": "/petPlayer/static/css/main.3884fa22.css.map",
     "main.d64580ae.js.map": "/petPlayer/static/js/main.d64580ae.js.map"
   },
   "entrypoints": [
-    "static/css/main.51e8c3ec.css",
+    "static/css/main.3884fa22.css",
     "static/js/main.d64580ae.js"
   ]
 }
